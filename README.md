@@ -4,4 +4,4 @@
 ![psm](images/PSMII_60x60.png)
 ![pspo](images/PSPOII_60x60.png)
 
-Phoityne explores how Haskell can evolve in the age of AI and cloud computing, focusing on tools, research, and development to support its role in intelligent, cloud-native systems.
+Exploring how Haskell can evolve in the age of AI and cloud computing — with a focus on tools, research, and development to support its role in intelligent, cloud-native systems.
